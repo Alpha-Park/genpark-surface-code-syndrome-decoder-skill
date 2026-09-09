@@ -1,0 +1,15 @@
+{
+  "name": "genpark-surface-code-syndrome-decoder-skill",
+  "version": "1.0.0",
+  "description": "Rotated planar surface code syndrome decoder detecting bit-flip (X) and phase-flip (Z) errors using parity-check stabilizer measurements.",
+  "tags": [
+    "genpark-skill",
+    "agentic-ai",
+    "surface-code",
+    "quantum-error-correction",
+    "syndrome-decoding",
+    "fault-tolerant"
+  ],
+  "entrypoint": "client.py",
+  "dependencies": []
+}
